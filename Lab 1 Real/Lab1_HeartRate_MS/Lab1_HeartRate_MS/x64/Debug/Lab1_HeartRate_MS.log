@@ -1,0 +1,5 @@
+﻿  HeartRates.cpp
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1 Real\Lab1_HeartRate_MS\Lab1_HeartRate_MS\HeartRates.h(83,35): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1 Real\Lab1_HeartRate_MS\Lab1_HeartRate_MS\HeartRates.cpp(10): error C4700: uninitialized local variable 'birthYear' used
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1 Real\Lab1_HeartRate_MS\Lab1_HeartRate_MS\HeartRates.cpp(10): error C4700: uninitialized local variable 'birthDay' used
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1 Real\Lab1_HeartRate_MS\Lab1_HeartRate_MS\HeartRates.cpp(10): error C4700: uninitialized local variable 'birthMonth' used

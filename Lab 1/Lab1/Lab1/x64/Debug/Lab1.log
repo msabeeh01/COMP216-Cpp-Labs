@@ -1,0 +1,35 @@
+﻿  HeartRates.cpp
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(7,9): error C3646: '_firstName': unknown override specifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(7,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(8,9): error C3646: '_lastName': unknown override specifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(8,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(14,13): error C2061: syntax error: identifier 'string'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(20,9): error C3646: 'getFirstName': unknown override specifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(20,21): error C2059: syntax error: '('
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(20,24): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(23,9): error C3646: 'getLastName': unknown override specifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(23,20): error C2059: syntax error: '('
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(23,23): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(54,20): error C2061: syntax error: identifier 'string'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(57,19): error C2061: syntax error: identifier 'string'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(14,12): error C2512: 'Dates': no appropriate default constructor available
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\Dates.h(4,7): message : see declaration of 'Dates'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(15,3): error C2065: '_firstName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(15,16): error C2065: 'firstName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(16,3): error C2065: '_lastName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(16,15): error C2065: 'lastName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(17,16): error C2065: 'month': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(17,23): error C2065: 'year': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(17,29): error C2065: 'day': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(31,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(34,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(55,3): error C2065: '_firstName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(55,16): error C2065: 'firstname': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(58,3): error C2065: '_lastName': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(58,15): error C2065: 'lastname': undeclared identifier
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.cpp(23,66): error C2440: 'initializing': cannot convert from 'initializer list' to 'HeartRates'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.cpp(23,66): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.cpp(26,42): error C2039: 'getFirstName': is not a member of 'HeartRates'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(4): message : see declaration of 'HeartRates'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.cpp(27,41): error C2039: 'getLastName': is not a member of 'HeartRates'
+E:\2023 School Year\COMP216-Cpp-Labs\Lab 1\Lab1\Lab1\HeartRates.h(4): message : see declaration of 'HeartRates'
